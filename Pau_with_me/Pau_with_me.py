@@ -3,7 +3,7 @@ def paula():
     if name == 'Paula':
         print('Hola Paula')
     else:
-        print('No te conozco')
+        print('No te conozco, regístrate')
 
 if __name__ == '__main__':
     paula()
